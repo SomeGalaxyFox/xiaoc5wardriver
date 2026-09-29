@@ -1,0 +1,7 @@
+Getting into wardriving and with all the cool tech I wanted to make my own
+
+Currently based off of a XIAO C5 for dual band
+
+I'd like to integrate both standalone wardriving but also include mobile device connectivity over bluetooth like the Buiscit devices
+
+Nodes definitely a project for the future likely over a wired interface as although ESP-NOW is great I want to remove as much overhead from my Wi-Fi scanning as possible
